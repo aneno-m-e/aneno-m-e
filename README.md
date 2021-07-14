@@ -25,6 +25,8 @@ Currently learning :
 
 
 ### 🧱 And what I'm making with them
+🧮 A [calculator in PHP](https://github.com/aneno-m-e/php-calculator) - to play around with this language as I learn it.
+🎨 [Color-Timer](https://aneno-m-e.github.io/color-timer/) - your screen will slowly fade from one colour to another, providing a visual indication of the passing of time  
 💻 [Dev Appcademy](https://dev-appcademy.herokuapp.com/): Dev Academy final group project.  
 💣 A [Minesweeper](https://aneno-m-e.github.io/minesweeper/) with an underwater twist  
 🧮 A [calculator](https://aneno-m-e.github.io/calculator/)
@@ -33,8 +35,7 @@ Before I learned JS:
 ✍️ A [blog](aneno-m-e.github.io) I wrote while going through the foundations part of Dev Academy Bootcamp  
 🌿 A [website](https://aneno-m-e.github.io/artemisia/) about Common Mugwort, created for my Masters degree in Heritage and New Media.  
 
-**Awaiting update and deployment**  
-🎨 Color-Timer - your screen will slowly fade from one colour to another, providing a visual indication of the passage of time  
+**Awaiting update and deployment**   
 🌊 Anemone-ID-Guide - A tool to identify sea anemones species based on filters.
 🐝 Hivemind - "Ask a question, get answers" app where the content is deleted after a duration set by the users. Started as a personal project at Dev Academy.  
 🥣 MealPoll - a Dev Academy group project
