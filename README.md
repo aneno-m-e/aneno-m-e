@@ -22,10 +22,11 @@ Currently learning :
 ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 
 
 ### 🧱 And what I'm making with them
-🧮 A [calculator in PHP](https://github.com/aneno-m-e/php-calculator) - to play around with this language as I learn it.
+🧮 A [calculator in PHP](https://php-simple-calculator.herokuapp.com/) - to play around with this language as I learn it.
 🎨 [Color-Timer](https://aneno-m-e.github.io/color-timer/) - your screen will slowly fade from one colour to another, providing a visual indication of the passing of time  
 💻 [Dev Appcademy](https://dev-appcademy.herokuapp.com/): Dev Academy final group project.  
 💣 A [Minesweeper](https://aneno-m-e.github.io/minesweeper/) with an underwater twist  
