@@ -22,7 +22,10 @@ Currently learning :
 ![](https://img.shields.io/badge/Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
 
 
 ### 🧱 And what I'm making with them
